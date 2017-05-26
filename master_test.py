@@ -1,1 +1,3 @@
 print('master')
+
+print('master')
